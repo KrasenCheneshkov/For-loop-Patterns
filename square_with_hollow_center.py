@@ -1,4 +1,5 @@
-# Craft a Python program that produces a square pattern with a hollow center. The program should take the size of the square as input from the user. Here's an example output for a user input of 5:
+# Craft a Python program that produces a square pattern with a hollow center. 
+# The program should take the size of the square as input from the user.
 rows = int(input())
 
 for i in range(1, rows + 1):
