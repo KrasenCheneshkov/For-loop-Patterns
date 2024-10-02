@@ -1,1 +1,1 @@
-# py_fun_basic_syntax_conditional_statements_and_loops
+Creating patterns using for loops in Python
